@@ -1,0 +1,40 @@
+-------------------------------
+Current version
+-------------------------------
+
+CRC for w3strings.exe (0.4.1)
+
+    size: 548448 bytes
+    md5: 48cc24b86b6af01d407f27f9e6e261a7
+    sha256: ee729aefc94ec314798b016833bf71754fc9771bce0aaceb665168e368646deb
+
+
+-------------------------------
+Previous (outdated) versions
+-------------------------------
+
+w3strings.exe
+- v0.4.0
+    size: 547262 bytes
+    md5: 461048061467ea9a024297794c8100dd
+    sha256: d523bb03e9a3b2c87c4354dbb4678b62d064fd94e9c213800ba2cc93e1ad3b5f
+
+- v0.3.4
+    size: 553877 bytes (yes it's much smaller now due to different compiler settings)
+    md5: 21b3f20595ac462f8a7c5a557252b43f
+    sha256: 65cbb5838c80c50dd2b0ebc0230aa0deb4dd932fde8534e19d645e01994e5a49
+
+- v0.3.3
+    size: 4650080 bytes
+    md5: e57af93653bdaa33d4cfe4569252156e
+    sha256: 833d577d9b49906c85980732e77f2f3d84dbcf0551affd556162a9975c29df3b
+
+- v0.3.2
+    size: 5041071 bytes
+    md5: 10a09e41b1fc732dd6ac5e574de78361
+    sha256: 6f06cd3dab38d515298a7d0ae22545c7038607360941d99891c871464cfb9f28
+
+- v0.2.1
+    size: 3369782 bytes
+    md5: 0dbd31caf2d63073a7d60a675185fcb1
+    sha256: 1115ed533d93914844d65943c768b45599a57a624055b26867 2018787beccaac
