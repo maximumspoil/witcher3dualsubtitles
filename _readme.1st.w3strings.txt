@@ -27,5 +27,5 @@ Features
 
 The encoder is compiled for 64bit windows. Start with --help to see all options.
 
-
+https://www.nexusmods.com/witcher3/mods/1055
 More details can be found here: http://forums.cdprojektred.com/threads/62747-Utility-Strings-encoder-for-adding-new-strings-(new-ids-and-keys)-as-standalone-w3strings-file
