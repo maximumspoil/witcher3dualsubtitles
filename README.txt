@@ -1,3 +1,8 @@
+These tools are distributed in the hope that they will be useful - but WITHOUT
+ANY WARRANTY.
+
+I'm not the creator of the w3strings decoder (w3strings.exe), please check its readme file.
+
 Usage:
 
 python dual_sbutitles.py source_lang target_lang location
